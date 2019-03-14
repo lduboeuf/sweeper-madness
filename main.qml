@@ -5,8 +5,8 @@ import "assets"
 Window {
     id: root
     visible: true
-    width: 1280
-    height: 720
+    width: 520
+    height: 360
     color: "#000000"
     property int game_state: 0
     visibility: version === "mobile" ? "FullScreen" : "Windowed"
