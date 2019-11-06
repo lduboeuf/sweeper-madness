@@ -48,8 +48,7 @@ install(DIRECTORY sounds DESTINATION ${DATA_DIR})
 set(
     SRCS
     main.cpp
-    src/imagepix.cpp 
-    src/imageprovider.cpp
+    translator.cpp
 )
 qt5_add_resources(RSCS res.qrc )
 add_definitions(-DMOBILE)

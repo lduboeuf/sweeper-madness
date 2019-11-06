@@ -13,11 +13,8 @@ For Ubuntu or Debian, run:
 ```bash
 $ sudo apt install build-essential qtbase5-dev qt5-default
 $ sudo apt install qtdeclarative5-dev
-$ sudo apt install qml-module-qtquick2
-$ sudo apt install qml-module-qtquick-window2
+$ sudo apt install qml-module-qtquick2 qml-module-qtquick-window2
 $ sudo apt install qml-module-qtgraphicaleffects
-$ sudo apt install qml-module-qtmultimedia
-$ sudo apt install libqt5multimedia5-plugins
 $ sudo apt install libcanberra-gtk-module 
 ```
 
@@ -30,8 +27,32 @@ $ qmake
 $ make
 ```
 
+On Ubuntu Touch:
+
+```bash
+$ clickable
+```
+
 ## Running
 
 ```bash
 $ ./sweeper-madness
 ```
+
+## Playing
+
+The game can be played using touch buttons or using the following keyboard keys:
+
+- First, use LEFT and RIGHT arrows to move the launcher on the starting line.
+- Validate his postion using SPACE key.
+- Then, validate the direction of the throw using SPACE key, once again.
+- And validate the power of the throw using SPACE key, one more time.
+- Finallly, press LEFT and RIGHT arrows to sweep repectively left and right.
+
+## Packages
+
+Available on Android:
+https://play.google.com/store/apps/details?id=krus.morten.sweepermadness
+
+Available on Ubuntu Touch:
+https://open-store.io/app/sm.lduboeuf
