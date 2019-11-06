@@ -1,8 +1,0 @@
-[Desktop Entry]
-Name=Sweeper Madness
-Exec=sm
-Icon=assets/ttris.png
-Terminal=false
-Type=Application
-X-Ubuntu-Touch=true
-Name[en_US]=sm.desktop

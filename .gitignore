@@ -8,3 +8,4 @@ moc_*
 Makefile
 sweeper-madness
 qrc_*.cpp
+build
