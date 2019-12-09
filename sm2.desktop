@@ -1,8 +1,8 @@
 [Desktop Entry]
-Name=Sweeper Madness
-Exec=sm
+Name=Sweeper Madness 2
+Exec=sm2
 Icon=assets/curling.png
 Terminal=false
 Type=Application
 X-Ubuntu-Touch=true
-Name[en_US]=sm.desktop
+Name[en_US]=sm2.desktop

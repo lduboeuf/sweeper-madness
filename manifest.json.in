@@ -1,12 +1,12 @@
 {
-    "name": "sm.lduboeuf",
+    "name": "sm2.lduboeuf",
     "description": "Curling like game",
     "architecture": "@CLICK_ARCH@",
     "title": "Sweeper madness",
     "hooks": {
-        "ttris": {
-            "apparmor": "sm.apparmor",
-            "desktop":  "sm.desktop"
+        "sm2": {
+            "apparmor": "sm2.apparmor",
+            "desktop":  "sm2.desktop"
         }
     },
     "version": "0.2",
